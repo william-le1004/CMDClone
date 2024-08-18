@@ -1,0 +1,28 @@
+D:\C# Console\Test\ndir\bin\Debug\net8.0\ndir.exe
+D:\C# Console\Test\ndir\bin\Debug\net8.0\ndir.deps.json
+D:\C# Console\Test\ndir\bin\Debug\net8.0\ndir.runtimeconfig.json
+D:\C# Console\Test\ndir\bin\Debug\net8.0\ndir.dll
+D:\C# Console\Test\ndir\bin\Debug\net8.0\ndir.pdb
+D:\C# Console\Test\ndir\obj\Debug\net8.0\ndir.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Console\Test\ndir\obj\Debug\net8.0\ndir.AssemblyInfoInputs.cache
+D:\C# Console\Test\ndir\obj\Debug\net8.0\ndir.AssemblyInfo.cs
+D:\C# Console\Test\ndir\obj\Debug\net8.0\ndir.csproj.CoreCompileInputs.cache
+D:\C# Console\Test\ndir\obj\Debug\net8.0\ndir.dll
+D:\C# Console\Test\ndir\obj\Debug\net8.0\refint\ndir.dll
+D:\C# Console\Test\ndir\obj\Debug\net8.0\ndir.pdb
+D:\C# Console\Test\ndir\obj\Debug\net8.0\ndir.genruntimeconfig.cache
+D:\C# Console\Test\ndir\obj\Debug\net8.0\ref\ndir.dll
+D:\C# Console\CMD Clone\ndir\bin\Debug\net8.0\ndir.exe
+D:\C# Console\CMD Clone\ndir\bin\Debug\net8.0\ndir.deps.json
+D:\C# Console\CMD Clone\ndir\bin\Debug\net8.0\ndir.runtimeconfig.json
+D:\C# Console\CMD Clone\ndir\bin\Debug\net8.0\ndir.dll
+D:\C# Console\CMD Clone\ndir\bin\Debug\net8.0\ndir.pdb
+D:\C# Console\CMD Clone\ndir\obj\Debug\net8.0\ndir.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Console\CMD Clone\ndir\obj\Debug\net8.0\ndir.AssemblyInfoInputs.cache
+D:\C# Console\CMD Clone\ndir\obj\Debug\net8.0\ndir.AssemblyInfo.cs
+D:\C# Console\CMD Clone\ndir\obj\Debug\net8.0\ndir.csproj.CoreCompileInputs.cache
+D:\C# Console\CMD Clone\ndir\obj\Debug\net8.0\ndir.dll
+D:\C# Console\CMD Clone\ndir\obj\Debug\net8.0\refint\ndir.dll
+D:\C# Console\CMD Clone\ndir\obj\Debug\net8.0\ndir.pdb
+D:\C# Console\CMD Clone\ndir\obj\Debug\net8.0\ndir.genruntimeconfig.cache
+D:\C# Console\CMD Clone\ndir\obj\Debug\net8.0\ref\ndir.dll

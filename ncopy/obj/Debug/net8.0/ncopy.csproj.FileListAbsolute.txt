@@ -1,0 +1,14 @@
+D:\C# Console\CMD Clone\ncopy\bin\Debug\net8.0\ncopy.exe
+D:\C# Console\CMD Clone\ncopy\bin\Debug\net8.0\ncopy.deps.json
+D:\C# Console\CMD Clone\ncopy\bin\Debug\net8.0\ncopy.runtimeconfig.json
+D:\C# Console\CMD Clone\ncopy\bin\Debug\net8.0\ncopy.dll
+D:\C# Console\CMD Clone\ncopy\bin\Debug\net8.0\ncopy.pdb
+D:\C# Console\CMD Clone\ncopy\obj\Debug\net8.0\ncopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Console\CMD Clone\ncopy\obj\Debug\net8.0\ncopy.AssemblyInfoInputs.cache
+D:\C# Console\CMD Clone\ncopy\obj\Debug\net8.0\ncopy.AssemblyInfo.cs
+D:\C# Console\CMD Clone\ncopy\obj\Debug\net8.0\ncopy.csproj.CoreCompileInputs.cache
+D:\C# Console\CMD Clone\ncopy\obj\Debug\net8.0\ncopy.dll
+D:\C# Console\CMD Clone\ncopy\obj\Debug\net8.0\refint\ncopy.dll
+D:\C# Console\CMD Clone\ncopy\obj\Debug\net8.0\ncopy.pdb
+D:\C# Console\CMD Clone\ncopy\obj\Debug\net8.0\ncopy.genruntimeconfig.cache
+D:\C# Console\CMD Clone\ncopy\obj\Debug\net8.0\ref\ncopy.dll

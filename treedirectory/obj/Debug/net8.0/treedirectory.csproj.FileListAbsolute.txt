@@ -1,0 +1,14 @@
+D:\C# Console\CMD Clone\treedirectory\bin\Debug\net8.0\treedirectory.exe
+D:\C# Console\CMD Clone\treedirectory\bin\Debug\net8.0\treedirectory.deps.json
+D:\C# Console\CMD Clone\treedirectory\bin\Debug\net8.0\treedirectory.runtimeconfig.json
+D:\C# Console\CMD Clone\treedirectory\bin\Debug\net8.0\treedirectory.dll
+D:\C# Console\CMD Clone\treedirectory\bin\Debug\net8.0\treedirectory.pdb
+D:\C# Console\CMD Clone\treedirectory\obj\Debug\net8.0\treedirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Console\CMD Clone\treedirectory\obj\Debug\net8.0\treedirectory.AssemblyInfoInputs.cache
+D:\C# Console\CMD Clone\treedirectory\obj\Debug\net8.0\treedirectory.AssemblyInfo.cs
+D:\C# Console\CMD Clone\treedirectory\obj\Debug\net8.0\treedirectory.csproj.CoreCompileInputs.cache
+D:\C# Console\CMD Clone\treedirectory\obj\Debug\net8.0\treedirectory.dll
+D:\C# Console\CMD Clone\treedirectory\obj\Debug\net8.0\refint\treedirectory.dll
+D:\C# Console\CMD Clone\treedirectory\obj\Debug\net8.0\treedirectory.pdb
+D:\C# Console\CMD Clone\treedirectory\obj\Debug\net8.0\treedirectory.genruntimeconfig.cache
+D:\C# Console\CMD Clone\treedirectory\obj\Debug\net8.0\ref\treedirectory.dll
